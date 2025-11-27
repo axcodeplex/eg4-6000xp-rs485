@@ -1,4 +1,4 @@
-# eg4-6000xp-rs485
+# EG4 6000XP - SolarAssistant.io RS485 Direct Connection
 Documentation of configuring and connecting the 6000XP directly to SolarAssistant via RS485
 
 There seem to be a few paths here;
@@ -9,4 +9,6 @@ There seem to be a few paths here;
 * Snagging the RS485 A/B connections from the board directly where the HDMI plug board hooks to the inverters main board
    * This post seems to give the pinout of the 4 pin going to the HDMI: https://diysolarforum.com/threads/eg4-6000xp-18kpv-custom-rs485-dongle-connector.82011/page-6
 
-[Solar assistant's page on the matter] (https://solar-assistant.io/help/inverters/eg4/IV-6000-XP-IN/rs485)
+It seems the general consensus that the HDMI/Wifi Dongle **can not** be used at the same time as a direct RS485 connection (likely because they share the same physical connections back to the Inverters internal cpu)
+
+Solar assistant's page on the matter: https://solar-assistant.io/help/inverters/eg4/IV-6000-XP-IN/rs485
