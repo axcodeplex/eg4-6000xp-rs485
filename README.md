@@ -8,6 +8,8 @@ There seem to be a few paths here;
 * Snagging the RS485 A/B connection from an HDMI breakout connector
 * Snagging the RS485 A/B connections from the board directly where the HDMI plug board hooks to the inverters main board
    * This post seems to give the pinout of the 4 pin going to the HDMI: https://diysolarforum.com/threads/eg4-6000xp-18kpv-custom-rs485-dongle-connector.82011/page-6
+* Suggested RS485/USB Adapter for non-CT1 connection: https://www.amazon.com/gp/product/B081MB6PN2
+
 
 It seems the general consensus that the HDMI/Wifi Dongle **can not** be used at the same time as a direct RS485 connection (likely because they share the same physical connections back to the Inverters internal cpu)
 
