@@ -14,6 +14,8 @@ There seem to be a few paths here;
    * This post has a photo of the exact pins needed on the board:
      * https://diysolarforum.com/threads/eg4-6000xp-esphome.91662/post-1240909
 * Suggested RS485/USB Adapter for non-CT1 connection: https://www.amazon.com/gp/product/B081MB6PN2
+* Full on bananas custom flash of "ESP Home" (?) for the PIC in the HDMI Dongle:
+   * https://github.com/dresslerc/eg4-6000xp-esphome/tree/main?tab=readme-ov-file
 
 
 It seems the general consensus that the HDMI/Wifi Dongle **can not** be used at the same time as a direct RS485 connection (likely because they share the same physical connections back to the Inverters internal cpu)
