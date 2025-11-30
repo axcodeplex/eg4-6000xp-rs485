@@ -11,6 +11,8 @@ There seem to be a few paths here;
      * https://diysolarforum.com/threads/eg4-6000xp-18kpv-custom-rs485-dongle-connector.82011/page-6
      * and
      * https://diysolarforum.com/threads/eg4-6000xp-18kpv-custom-rs485-dongle-connector.82011/post-1378301
+     * and
+     * https://diysolarforum.com/threads/how-to-eg4-6000xp-and-sa-via-rs485.107604/
    * This post has a photo of the exact pins needed on the board:
      * https://diysolarforum.com/threads/eg4-6000xp-esphome.91662/post-1240909
 * Suggested RS485/USB Adapter for non-CT1 connection: https://www.amazon.com/gp/product/B081MB6PN2
