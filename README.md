@@ -26,3 +26,5 @@ Solar assistant's page on the matter: https://solar-assistant.io/help/inverters/
 * Without EG4's tool, using "quick charge", or forced on-demand battery charging, is not easily possible **
 * Per [This thread](https://diysolarforum.com/threads/eg4-6000xp-solar-assistant-home-assistant-quick-charge.88617/post-1171344) you can:
   * "toggle Byte0bit4 and/or Byte0Bit5 to 1 for CAN ID 0x35C. This will basically force charge the battery (even from AC) as long as the bit stays on."
+* It's also not possible to upgrade firmware without the magic dongle.
+  * Changelog for 6000XP firmware: http://os.solarcloudsystem.com/#/releaseLog?deviceType=SNA_US_6000
