@@ -7,10 +7,12 @@ There seem to be a few paths here;
 * Using the hard-wire posts in the bottom left of the control panel in the inverter
 * Snagging the RS485 A/B connection from an HDMI breakout connector
 * Snagging the RS485 A/B connections from the board directly where the HDMI plug board hooks to the inverters main board
-   * This post seems to give the pinout of the 4 pin going to the HDMI:
-   * https://diysolarforum.com/threads/eg4-6000xp-18kpv-custom-rs485-dongle-connector.82011/page-6
-   * and
-   * https://diysolarforum.com/threads/eg4-6000xp-18kpv-custom-rs485-dongle-connector.82011/post-1378301
+   * These posts seems to give the pinout of the 4 pin going to the HDMI:
+     * https://diysolarforum.com/threads/eg4-6000xp-18kpv-custom-rs485-dongle-connector.82011/page-6
+     * and
+     * https://diysolarforum.com/threads/eg4-6000xp-18kpv-custom-rs485-dongle-connector.82011/post-1378301
+   * This post has a photo of the exact pins needed on the board:
+     * https://diysolarforum.com/threads/eg4-6000xp-esphome.91662/post-1240909
 * Suggested RS485/USB Adapter for non-CT1 connection: https://www.amazon.com/gp/product/B081MB6PN2
 
 
