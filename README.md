@@ -31,3 +31,6 @@ Suggested RS485 Cable thing from SolarAssistant directly:
   * "toggle Byte0bit4 and/or Byte0Bit5 to 1 for CAN ID 0x35C. This will basically force charge the battery (even from AC) as long as the bit stays on."
 * It's also **not possible to upgrade firmware** without the magic dongle.
   * Changelog for 6000XP firmware: http://os.solarcloudsystem.com/#/releaseLog?deviceType=SNA_US_6000
+ 
+  Trying to find some ways around this, there is this plugin for HACS, but it requires the dongle: https://github.com/joyfulhouse/eg4_web_monitor
+  The EG4 API appears to be documented here, but it's odd; https://eg4electronics.com/api-documentation/ 
